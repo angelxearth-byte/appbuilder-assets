@@ -1,0 +1,1 @@
+Affiliate: 20% recurring for 12 months. Sign up via Google Form.
