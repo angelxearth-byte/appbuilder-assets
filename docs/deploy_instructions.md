@@ -1,0 +1,1 @@
+Deploy: host builder-app and landing-page on Vercel/Netlify. Use PWABuilder for Android wrapper. Connect Stripe and Firebase.
